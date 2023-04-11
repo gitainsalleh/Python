@@ -16,4 +16,4 @@ turtle.left(90)
 turtle.forward(50)
 turtle.left(90)
 
-turtle.done() #Allowing turtle to stay on screen
+turtle.done() #Allowing drawing to stay on screen
